@@ -19,3 +19,9 @@ admin:
   email:
     from:
       address: support@fiverity.com
+
+#JWT Token Properties
+webtoken:
+  timeout:
+    in:
+      minutes: 15
