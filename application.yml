@@ -24,4 +24,4 @@ admin:
 webtoken:
   timeout:
     in:
-      minutes: 15
+      minutes: 1200
